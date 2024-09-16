@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="constraint_width">0dp</dimen>
+	<dimen name="constraint_height">0dp</dimen>
+
+	<dimen name="elevation_toolbar">5dp</dimen>
+
+	<dimen name="small_image_width">40dp</dimen>
+	<dimen name="small_image_height">40dp</dimen>
+	<dimen name="large_image_width">120dp</dimen>
+	<dimen name="large_image_height">120dp</dimen>
+
+	<dimen name="common_padding_min">8dp</dimen>
+	<dimen name="common_padding_default">16dp</dimen>
+	<dimen name="common_padding_max">32dp</dimen>
+
+</resources>
